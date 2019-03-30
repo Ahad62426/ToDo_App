@@ -1,0 +1,27 @@
+
+#box{
+    border: solid black 1px;
+    margin: 2% auto 0;
+    padding: 1%;
+    width: 200px;
+    text-align: center;
+    height: 150px;
+    float: center;
+    background-color: #cbe5f8;
+    border-color: #cbe5f8;
+    border-radius: 3px;
+}
+#box-text{
+    padding-top: 33%;
+}
+#login_form{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    border: solid 2px white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.login_form{
+    padding:4px 10px;
+}
